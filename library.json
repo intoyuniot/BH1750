@@ -1,0 +1,17 @@
+{
+    "name": "BH1750",
+    "version": "1.0.0",
+    "keywords": "BH1750",
+    "description": "BH1750环境光强度传感器库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/BH1750.git"
+    },
+
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
